@@ -1,0 +1,11 @@
+.form-container {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    background-color: #fff;
+}
+
+.div-2 {
+    gap: 15px;
+}

@@ -1,0 +1,43 @@
+.subscribe-container {
+    margin-top: 10px;
+}
+.nosotros-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+/* div 1 dentro del principal: */
+.div-1{
+    width: 65vw;
+    padding: 20px 80px 60px 150px;
+    background-color: #fff;
+}
+
+/* div primer texto:  */
+.nosotros-text-1{
+    padding: 20px;
+    padding-bottom: 40px;
+    border-radius: 2px;
+}
+
+/* div segundo texto:  */
+.nosotros-text-2{
+    background-color: #35424A;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 2px;
+}
+.nosotros-text-2 p{
+    color: #fff;
+}
+/* contenedor de la imagen:  */
+.imagen-891-contenedor{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.imagen-891-contenedor img{
+    width: 100%;
+    border-radius: 2px;
+}

@@ -1,0 +1,19 @@
+input{
+    padding: 8px;
+    padding-right: 80px;
+    border-radius: 3px;
+}
+
+.btn{
+    width: 100px;
+    background-color: #E8491F;
+    margin-left: 5px;
+    border: 0;
+    color: #fff;
+    padding: 10px;
+    border-radius: 3px;
+    transition: transform 0.2s ease;
+}
+.btn:hover{
+    transform: scale(1.02);
+}

@@ -1,0 +1,27 @@
+header {
+    background-color: #24282B;
+    margin-top: -5px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10% 0 10%;
+}
+
+.title-input {
+    font-size: 40px;
+    color: #fff;
+}
+
+.font-white {
+    color: #fff;
+}
+
+.buttons-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+    font-size: 20px;
+}
+

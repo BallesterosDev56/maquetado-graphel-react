@@ -1,0 +1,35 @@
+header {
+    background-color: #24282B;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10% 0 10%;
+}
+
+.title {
+    font-size: 50px;
+    color: #fff;
+}
+.font-blue {
+    color: #1293D4;
+}
+.font-white {
+    color: #fff;
+}
+
+.buttons-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.buttons {
+    transition: color 0.3s ease;
+}
+.buttons:hover {
+    color:#1293D4
+}

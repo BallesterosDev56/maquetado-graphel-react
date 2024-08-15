@@ -1,0 +1,7 @@
+.trilogy-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #fff;
+    padding: 25px 0;
+}
